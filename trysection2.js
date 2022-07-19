@@ -100,9 +100,9 @@ if(i<100){
 else if(i==100){
     quiz_count = quiz_count*(k-1);
     z = quiz_count;
-    if(location.href=="https://todorokitai.github.io/try2/section1-45.html")quiz_length = 438;
-    else if(location.href=="https://todorokitai.github.io/try3/section2-37.html")quiz_length=797;
-    else if(location.href=="https://todorokitai.github.io/try4/section3-31.html")quiz_length = 1095;
+    if(location.href=="https://todorokitai.github.io/try2/section1-46.html")quiz_length = 438;
+    else if(location.href=="https://todorokitai.github.io/try3/section2-38.html")quiz_length=797;
+    else if(location.href=="https://todorokitai.github.io/try4/section3-32.html")quiz_length = 1095;
 }
 
 //問題のランダム表示
